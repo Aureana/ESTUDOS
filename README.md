@@ -1,2 +1,3 @@
 # ESTUDOS
- treinando o que aprendi em aula
+ Treinando o que aprendi em aula.
+ Estou aprendendo criar e gerenciar repositórios.
